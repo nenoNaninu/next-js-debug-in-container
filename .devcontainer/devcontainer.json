@@ -1,0 +1,8 @@
+{
+    "dockerComposeFile": [
+        "../docker-compose.yaml",
+        "docker-compose.yaml"
+    ],
+    "service": "front",
+    "workspaceFolder": "/workspace"
+}
